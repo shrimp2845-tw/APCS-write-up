@@ -1,5 +1,5 @@
 #2025-05-19
-#像p1
+#簡單到像p1 ：P
 n,m,k=map(int,input().split())
 m-=1
 l=list(range(n))
