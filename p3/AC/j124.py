@@ -1,5 +1,5 @@
 #2025-05-07
-#dfs,並把底下的總長向上傳遞直到根
+#dfs,並把遍歷的差值直接加到total
 import sys
 def ans(m):
     total=0
